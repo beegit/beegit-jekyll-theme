@@ -1,0 +1,168 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Beegit Jekyll Theme</title>
+    <description>Write an awesome description for your new site here. You can edit this line in _config.yml. It will appear in your document head meta (for Google search results) and in your feed.xml site description.</description>
+    <link>http://yourdomain.com/</link>
+    <atom:link href="http://yourdomain.com/feed.xml" rel="self" type="application/rss+xml" />
+    
+      <item>
+        <title>Using Beegit to share the story of Mastering Git</title>
+        <description>&lt;p&gt;&lt;strong&gt;The following is a guest post from Thom Parkin, author of “Mastering Git”&lt;/strong&gt;&lt;/p&gt;
+
+&lt;p&gt;When I was contracted to develop and construct a &lt;a href=&quot;https://www.packtpub.com/application-development/mastering-git-video&quot;&gt;Tutorial Screencast&lt;/a&gt; teaching the more sophisticated features of git&lt;sup id=&quot;fnref:1&quot;&gt;&lt;a href=&quot;#fn:1&quot; class=&quot;footnote&quot;&gt;1&lt;/a&gt;&lt;/sup&gt; (the ‘engine’ behind &lt;a href=&quot;https://www.beegit.com/&quot;&gt;Beegit&lt;/a&gt;), I found Beegit to be the PERFECT platform.&lt;/p&gt;
+
+&lt;p&gt;Writing, in one form or another, is a big part of our lives. The fact that you are reading this indicates you use – and probably depend upon – the Internet as a resource. I would guess you have written something &lt;em&gt;on the Internet&lt;/em&gt; today.&lt;/p&gt;
+
+&lt;p&gt;In my career as a software developer – a career that spans way back BEFORE the Internet – I have worked on projects in Telecommunications, Voice Processing, and most recently Mission Planning for the US Air Force. This has included providing technical training to other software developers worldwide.&lt;/p&gt;
+
+&lt;p&gt;Regardless of the project, a developer’s daily activity involves writing many words (albeit part of the ‘code’ of programming languages). It also involves dealing with constant and continuous changes.&lt;/p&gt;
+
+&lt;p&gt;For software development there are specialized tools that aid in this process; namely Source Control Management (SCM) systems.&lt;/p&gt;
+
+&lt;p&gt;Writing software code is not much different than writing an e-book, screencast, or a novel. The language is different and the rules of syntax are a bit more strict, perhaps, but the process is quite similar. That is; taking conceptual ideas from your brain and then defining them, in detail, in a permanent form.&lt;/p&gt;
+
+&lt;p&gt;Accepting that the process of writing is more-or-less universal, it has always bothered me that these tools (like SCM) are not in more widespread use across other disciplines. I believe writers of all kinds, photographers, digital artists, engineers and architects could benefit from the valuable capabilities provided by an SCM. Of course, one big obstacle has been the peculiar and esoteric format that some believe is intentional to exclude all but “geeks”!&lt;/p&gt;
+
+&lt;p&gt;This is where I have been known to proclaim that &lt;a href=&quot;https://www.beegit.com/&quot;&gt;Beegit&lt;/a&gt; is BRILLIANT.&lt;/p&gt;
+
+&lt;p&gt;Translating my writing process from the world of software code to scripting a tutorial was greatly simplified with &lt;a href=&quot;https://www.beegit.com/&quot;&gt;Beegit&lt;/a&gt;, for several reasons:&lt;/p&gt;
+
+&lt;ul&gt;
+  &lt;li&gt;Unmatched convenience&lt;/li&gt;
+  &lt;li&gt;I am quite comfortable with Markdown language&lt;/li&gt;
+  &lt;li&gt;Great support&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;h3 id=&quot;convenience&quot;&gt;Convenience&lt;/h3&gt;
+
+&lt;p&gt;I could continue the process of writing without regard for &lt;strong&gt;where&lt;/strong&gt;, &lt;strong&gt;when&lt;/strong&gt; or &lt;strong&gt;what&lt;/strong&gt; equipment I had available to me.&lt;/p&gt;
+
+&lt;p&gt;Access to the Internet is almost completely ubiquitous now. So I was not hampered in my work because the source material was “in the cloud” and available to me at anytime.&lt;/p&gt;
+
+&lt;h3 id=&quot;great-markup-language&quot;&gt;Great Markup Language&lt;/h3&gt;
+
+&lt;p&gt;With experience in numerous [programming] languages, I have found &lt;a href=&quot;http://en.wikipedia.org/wiki/Markdown&quot;&gt;Markdown&lt;/a&gt; to be &lt;strong&gt;the best&lt;/strong&gt; for quickly writing content that will be read by other human beings. The formatting commands are much more ‘natural’ than other markup languages. &lt;a href=&quot;https://www.beegit.com/&quot;&gt;Beegit&lt;/a&gt; allows the content to be exported in numerous popular formats.&lt;/p&gt;
+
+&lt;p&gt;If you are new to Markdown I highly recommend you take the time to become proficient! The small investment will pay large dividends in your ability to quickly write - without regard of the particular (or peculiar) software you happen to be using at the time.&lt;/p&gt;
+
+&lt;p&gt;Markdown has quickly gained general acceptance in the world of Open Source Software development and I am already seeing its popularity spill over into other areas.&lt;/p&gt;
+
+&lt;h3 id=&quot;outstanding-support&quot;&gt;Outstanding Support&lt;/h3&gt;
+
+&lt;p&gt;The people who have made &lt;a href=&quot;https://www.beegit.com/&quot;&gt;Beegit&lt;/a&gt; are highly skilled and extremely responsive. Along the way in this very long and detailed process developing “&lt;a href=&quot;https://www.packtpub.com/application-development/mastering-git-video&quot;&gt;Mastering Git&lt;/a&gt;”, I found behaviors in the software I thought were a bit strange.  I also  imagined operations that seemed to be missing.  The talented group who created and maintain &lt;a href=&quot;https://www.beegit.com/&quot;&gt;Beegit&lt;/a&gt; actually &lt;strong&gt;encouraged&lt;/strong&gt; me to continue presenting suggestions and ideas; their real goal has been to make a &lt;strong&gt;FIVE STAR&lt;/strong&gt; product.&lt;/p&gt;
+
+&lt;p&gt;The response and updates to the product were fast and, since this a platform, I had immediate access to those updates the very next time I logged on! This is one of the great side-effects of using an online service like this.&lt;/p&gt;
+
+&lt;h3 id=&quot;simplifying-a-complex-process&quot;&gt;Simplifying a Complex Process&lt;/h3&gt;
+&lt;p&gt;When approaching a large project like &lt;a href=&quot;https://www.packtpub.com/application-development/mastering-git-video&quot;&gt;Mastering Git&lt;/a&gt;, which has become 100+ minutes of intense video tutorial, I needed lots of flexibility. As a Technical presentation there are numerous component parts:&lt;/p&gt;
+
+&lt;ul&gt;
+  &lt;li&gt;Code samples&lt;/li&gt;
+  &lt;li&gt;Presentation slides&lt;/li&gt;
+  &lt;li&gt;Video screen recording&lt;/li&gt;
+  &lt;li&gt;Scripted narration&lt;/li&gt;
+  &lt;li&gt;Video editing and the addition of “callouts” and highlights in the video&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;p&gt;Coordination of all these aspects and their interaction required careful planning. I am so happy to have discovered &lt;a href=&quot;https://www.beegit.com/&quot;&gt;Beegit&lt;/a&gt; at the time I was beginning this 6+ month long process of producing a Technical Video Tutorial.&lt;/p&gt;
+
+&lt;p&gt;With a short career in the business of making Hollywood movies, I borrowed on the techniques used in writing a movie script.&lt;/p&gt;
+
+&lt;h3 id=&quot;my-workflow&quot;&gt;My Workflow&lt;/h3&gt;
+
+&lt;p&gt;Here is how I used &lt;a href=&quot;https://www.beegit.com/&quot;&gt;Beegit&lt;/a&gt; to attack &lt;a href=&quot;https://www.packtpub.com/application-development/mastering-git-video&quot;&gt;this large project&lt;/a&gt;.&lt;/p&gt;
+
+&lt;p&gt;First create an outline; one for each of the ten Sections. Then save that as a ‘Version’.&lt;/p&gt;
+
+&lt;p&gt;I followed this by methodically ‘fleshing out’ the outline, filling in details.&lt;/p&gt;
+
+&lt;p&gt;I don’t think of the ‘Version’ capability so much as saving my work, but more as ‘marker’ used for later reference. In other words, I was able to repeatedly refer &lt;strong&gt;back&lt;/strong&gt; to that outline in the original version.&lt;/p&gt;
+
+&lt;p&gt;I proceeded with no fear of creative inspiration steering off on tangents. I was free to ‘experiment’ along the way secure in the knowledge that I could return to any point I had already passed (assuming I made a ‘Version’ there).&lt;/p&gt;
+
+&lt;p&gt;The new ‘Comment’ capability was invaluable for me to add notes and reminders to myself — things that would be extraneous clutter in the main document but essential for me to not forget.&lt;/p&gt;
+
+&lt;p&gt;The ability to export the final result to multiple formats was key for me too. In my case, there were script instructions (what operation is being shown on the screen) and the text of the narration to be recorded. These were tightly interrelated in the text but needed to be handled independently when the time came for recording; since the Audio narration was separate from the Video screen capture.&lt;/p&gt;
+
+&lt;p&gt;Utilizing the quick and simple formatting commands of Markdown made this an effortless and effective operation.&lt;/p&gt;
+
+&lt;div class=&quot;footnotes&quot;&gt;
+  &lt;ol&gt;
+    &lt;li id=&quot;fn:1&quot;&gt;
+      &lt;p&gt;The project referenced in this post is “&lt;a href=&quot;https://www.packtpub.com/application-development/mastering-git-video&quot;&gt;Mastering Git&lt;/a&gt;”, a Video Tutorial distributed by Packt Publishing. &lt;a href=&quot;#fnref:1&quot; class=&quot;reversefootnote&quot;&gt;&amp;#8617;&lt;/a&gt;&lt;/p&gt;
+    &lt;/li&gt;
+  &lt;/ol&gt;
+&lt;/div&gt;
+</description>
+        <pubDate>Fri, 23 Jan 2015 07:00:00 -0500</pubDate>
+        <link>http://yourdomain.com/2015/01/23/using-beegit-to-share-the-story-of-mastering-git/</link>
+        <guid isPermaLink="true">http://yourdomain.com/2015/01/23/using-beegit-to-share-the-story-of-mastering-git/</guid>
+      </item>
+    
+      <item>
+        <title>Seven quick and interesting thoughts from Content Marketing World 2014</title>
+        <description>&lt;p&gt;Content Marketing World 2014 made its way through Cleveland last week and brought a train of marketers, writers and sales people with it.&lt;/p&gt;
+
+&lt;p&gt;The event was a wonderful meeting of minds to discuss all things content, and there was lot to see and learn. &lt;/p&gt;
+
+&lt;p&gt;The &lt;a href=&quot;https://beegit.com&quot;&gt;Beegit&lt;/a&gt; team was there, and I put together some valuable content nuggets we heard that are worth sharing. Here are seven interesting takeaways from the week. It should be noted that the lessons learned may not have been the ones the speaker identified was trying to impress upon the audience. &lt;/p&gt;
+
+&lt;h3 id=&quot;good-content-isnt-boring&quot;&gt;1. Good content isn’t boring.&lt;/h3&gt;
+&lt;p&gt;&lt;em&gt;Learned from Ann Handley, Chief Content Officer of MarketingProfs, @&lt;a href=&quot;https://twitter.com/MarketingProfs&quot;&gt;MarketingProfs&lt;/a&gt;&lt;/em&gt;&lt;/p&gt;
+
+&lt;p&gt;Ann Handley is a huge name in the content marketing industry and she encourages content writers to have a voice and be interesting. &lt;/p&gt;
+
+&lt;p&gt;The next frontier of content marketing is storytelling, and Handley emphasized that that requires good writing. It’s easy to get scared and make bland content. And it’s easy for people to ignore that content. Don’t get caught in the bland trap. Make your stories interesting and don’t be afraid to develop a personal brand voice. &lt;/p&gt;
+
+&lt;h3 id=&quot;cut-through-the-noise-with-a-simple-captivating-story&quot;&gt;2. Cut through the noise with a simple, captivating story&lt;/h3&gt;
+&lt;p&gt;&lt;em&gt;Learned from Steve Rotter, VP of marketing at BrightCove, @&lt;a href=&quot;https://twitter.com/sjrotter&quot;&gt;sjrotter&lt;/a&gt;&lt;/em&gt;&lt;/p&gt;
+
+&lt;p&gt;Steve Rotter led a fascinating lunch session that had a memorable stat: The adult attention span gone from 12 seconds to about 7 seconds in the last decade. That is actually shorter than the attention span of a goldfish. &lt;/p&gt;
+
+&lt;p&gt;That means it’s harder than ever for content creators to create a message that captures the audience’s attention. To deal with that, Rotter says you should cut through the noise with a story that captures someone’s attention and brings home a simple point or two. He pointed to this &lt;a href=&quot;https://www.youtube.com/watch?v=GH3lFs3EeKY&quot;&gt;loud and powerful video&lt;/a&gt; as a good example of effective story telling to make two basic points.&lt;/p&gt;
+
+&lt;h3 id=&quot;a-one-page-site-cant-have-an-average-of-113-pages-per-visit&quot;&gt;3. A one page site can’t have an average of 1.13 pages per visit&lt;/h3&gt;
+&lt;p&gt;&lt;em&gt;Learned from Scott Stratten, president of UnMarketing, @&lt;a href=&quot;https://twitter.com/unmarketing&quot;&gt;unmarketing&lt;/a&gt;&lt;/em&gt;&lt;/p&gt;
+
+&lt;p&gt;Perhaps the biggest lesson from hearing Scott Stratten give a keynote address is to learn that anytime he is on stage you should grab a seat and listen. Stratten is energetic, hilarious and full of stories of marketing campaigns gone bad. &lt;/p&gt;
+
+&lt;p&gt;He focuses on the little issues that trip marketers up, including the use of metrics to show something is working, even when it clearly isn’t. Metrics are important, but he pointed out how often they can be misleading or how the tool can be just plain wrong. For example, he has a one page site that serves only one purpose: letting users push a button to hear Darth Vader yell no &lt;a href=&quot;http://www.nooooooooooooooo.com/&quot;&gt;(go ahead, try it)&lt;/a&gt;. Again, the site is one page. The audio on the site is less than three seconds. But when Stratten shared his Google Analytics with the audience, the average time on site was nearly 24 seconds and the average pages per visit were 1.13. &lt;/p&gt;
+
+&lt;p&gt;The numbers are funny, but they mix well with his point: Some metrics aren’t perfect and to spend time analyzing them is a waste of time. His key metric for the site: visits and how much money he makes off his ads. Everything beyond those success metrics only exists to confuse him.&lt;/p&gt;
+
+&lt;h3 id=&quot;dont-just-feed-them-taco-salad&quot;&gt;4. Don’t just feed them taco salad&lt;/h3&gt;
+&lt;p&gt;Learned from Jay Acunzo, Director of platform and community at NextView Ventures, @&lt;a href=&quot;https://twitter.com/Jay_zo&quot;&gt;jay_zo&lt;/a&gt;&lt;/p&gt;
+
+&lt;p&gt;As a child, Jay Acunzo and his sister were tasked with making their parents dinner one night. Jay had been learning his way around the kitchen and took to the task well, making them a taco salad. It was something he knew how to make and the rewards were immediate: His parents couldn’t have been prouder of their young chef. &lt;/p&gt;
+
+&lt;p&gt;Naturally, when the opportunity to make his parents dinner came up again, the obvious choice was taco salad. It was also the choice the next time. And the next time. And… you get the picture. Eventually his parents grew tired of taco salad. &lt;/p&gt;
+
+&lt;p&gt;It’s a good story, to be sure, but it brings to light the fact that we are all guilty of finding something that works and beating that success into the ground. In content efforts, this leads to market saturation and your audience tuning out. You can’t just keep creating the same content, you have to mix it up to keep your audience engaged. &lt;/p&gt;
+
+&lt;h3 id=&quot;take-a-lesson-from-the-software-world&quot;&gt;5. Take a lesson from the software world&lt;/h3&gt;
+&lt;p&gt;&lt;em&gt;Learned from Scott Brinker, ion interactive co-founder, president &amp;amp; CTO, @&lt;a href=&quot;https://twitter.com/chiefmartec&quot;&gt;chiefmartec&lt;/a&gt;&lt;/em&gt;&lt;/p&gt;
+
+&lt;p&gt;Software teams get an A for managing distributed workflow and mastering productivity. Scott Brinker says it’s time to adapt their workflow for the content marketing industry. &lt;/p&gt;
+
+&lt;p&gt;He recommends taking methods from the agile software world to create a backlog of tasks that need to be done and prioritize them. There are many pieces to the agile workflow, but he recommends becoming a student of all of them and taking what works for your team. &lt;/p&gt;
+
+&lt;h3 id=&quot;its-your-time-to-shine-in-content-marketing&quot;&gt;6. It’s your time to shine in content marketing&lt;/h3&gt;
+&lt;p&gt;&lt;em&gt;Learned from Paul Roetzer, Founder and CEO of PR 20/20, @&lt;a href=&quot;https://twitter.com/paulroetzer&quot;&gt;paulroetzer&lt;/a&gt;&lt;/em&gt;&lt;/p&gt;
+
+&lt;p&gt;Paul Roetzer is an author and inbound marketing specialist who sees the world of content marketing as an industry still in its infant stages. How far behind are most content teams? He pointed to a study that showed only one of the top 10 college marketing programs in the country requires a digital marketing class as part of an undergraduate degree. That means that the content marketer who can educate their team on the core principles of content creation can take advantage of the marketplace. &lt;/p&gt;
+
+&lt;h3 id=&quot;its-the-creative-stupid&quot;&gt;7. It’s the creative, stupid&lt;/h3&gt;
+&lt;p&gt;&lt;em&gt;Learned from Kevin Spacey, Actor you know, @&lt;a href=&quot;https://twitter.com/KevinSpacey&quot;&gt;KevinSpacey&lt;/a&gt;&lt;/em&gt;&lt;/p&gt;
+
+&lt;p&gt;When the crowd wasn’t clapping wildly for him as he dropped into the southern drawl of Frank Underwood, Kevin Spacey reminded everyone that the story is the most important part of any content, and it’s the creator’s job to tell a good story. &lt;/p&gt;
+
+&lt;p&gt;Spacey has played many roles in his career, but he defined his favorite characters as those who take risks and make interesting decisions. Much like Ann Handley’s advice at the start of Content Marketing World, he pushed the audience to be interesting and different because the world has never had higher expectations of story tellers. &lt;/p&gt;
+</description>
+        <pubDate>Mon, 15 Sep 2014 08:00:00 -0400</pubDate>
+        <link>http://yourdomain.com/2014/09/15/thoughts-from-content-marketing-world/</link>
+        <guid isPermaLink="true">http://yourdomain.com/2014/09/15/thoughts-from-content-marketing-world/</guid>
+      </item>
+    
+  </channel>
+</rss>

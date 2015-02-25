@@ -1,0 +1,26 @@
+---
+layout: default
+---
+
+<div class="home">
+  <ul class="posts">
+    {% for post in site.posts %}
+      <li>
+        <div class="row">
+           <img src="{{ post.image }}">
+        </div>
+        <div class="post-wrapper">
+          <span class="post-meta">{{ post.date | date: "%B %-d, %Y" }} &bull; </span>
+          <a class="post-link" href="{{ post.url | prepend: site.baseurl }}">{{ post.title }}</a>
+          <p class="post-teaser">
+              {{ post.teaser | strip_html | truncatewords:75}}<br>
+              <a href="{{ post.url }}" class="button">Read more &raquo;</a><br><br>
+          </p>
+        </div>
+      </li>
+    {% endfor %}
+  </ul>
+
+  <p class="rss-subscribe">subscribe <a href="{{ "/feed.xml" | prepend: site.baseurl }}">via RSS</a></p>
+
+</div>
